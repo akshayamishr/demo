@@ -1,4 +1,4 @@
 # demo
 My first repo
 <br>
-Author : Akshaya
+Author : Akshaya Mishra
